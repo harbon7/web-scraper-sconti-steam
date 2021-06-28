@@ -1,0 +1,4 @@
+avviate il programma e vi salverà tutti i link delle offerte su 
+"risultati_salvati.txt" il programma si aggiorna da solo quindi quando
+saranno disponibili offerte nuove vi basta avviare di nuovo il programma
+e tutte le nuove offerte verranno salvate nei risultati!!
